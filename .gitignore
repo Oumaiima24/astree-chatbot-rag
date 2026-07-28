@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+chroma_db/
+astree-api/node_modules/
+astree-chat/node_modules/
+astree-api/.env
+astree_data.json
+astree_chunks.json
+ngrok.exe
+ngrok-v3-stable-windows-amd64/ngrok.exe 
